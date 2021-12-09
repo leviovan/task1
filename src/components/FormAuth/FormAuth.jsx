@@ -28,7 +28,7 @@ function FormAuth(props) {
         type="text"
       />
       <br />
-      <p>Зassword</p>
+      <p>Password</p>
       <Input
         myRef={myRefPas}
         value={props.authData.password}
